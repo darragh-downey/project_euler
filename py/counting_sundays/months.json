@@ -1,0 +1,62 @@
+[
+    {
+        "name": "jan",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "feb",
+        "days": 28,
+        "leap": true
+    },
+    {
+        "name": "mar",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "apr",
+        "days": 30,
+        "leap": false
+    },
+    {
+        "name": "may",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "jun",
+        "days": 30,
+        "leap": false
+    },
+    {
+        "name": "jul",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "aug",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "sep",
+        "days": 30,
+        "leap": false
+    },
+    {
+        "name": "oct",
+        "days": 31,
+        "leap": false
+    },
+    {
+        "name": "nov",
+        "days": 30,
+        "leap": false
+    },
+    {
+        "name": "dec",
+        "days": 31,
+        "leap": false
+    }
+]
