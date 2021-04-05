@@ -21,3 +21,8 @@ By finding minimal solutions in x for D = {2, 3, 5, 6, 7}, we obtain the followi
 Hence, by considering minimal solutions in x for D ≤ 7, the largest x is obtained when D=5.
 
 Find the value of D ≤ 1000 in minimal solutions of x for which the largest value of x is obtained.
+
+
+https://en.wikipedia.org/wiki/Diophantine_equation
+https://en.wikipedia.org/wiki/Pell%27s_equation
+https://mathworld.wolfram.com/PellEquation.html
